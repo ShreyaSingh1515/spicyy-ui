@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+ ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)  
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
