@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+ /* #FFA500 ,  */
+
+@theme {
+    --color-primary :	#3F6212;
+}	
